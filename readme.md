@@ -1,0 +1,1 @@
+This is the hard version of making a site from a pic.
