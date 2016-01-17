@@ -26,6 +26,12 @@ div#container {
     width: 1000px;
     height: 50px;
 }
+.tieTypes img {
+    margin-top: -2em;
+}
+#logoStack img {
+    /*margin-top: -2em;*/
+}
 
 
 .tieTypes li{
@@ -55,8 +61,10 @@ div#container {
     font-size: .7rem;
 }
 .tieListMargin {margin-left:100px;}
-.tieMargin {margin-left: 18px;}
-
+.tieMargin {margin-left: 7em;}
+.center {
+    text-align: center;
+}
 .clearFloat {
     clear: both;
     margin: 0;
