@@ -34,7 +34,7 @@ div#container {
 }
 
 
-.tieTypes li{
+.tieTypes li {
     margin: 1rem;
     list-style: none;
     float: left;
@@ -60,20 +60,21 @@ div#container {
     text-align: center;
     font-size: .7rem;
 }
-.tieListMargin {margin-left:100px;}
-.tieMargin {margin-left: 7em;}
-.center {
-    text-align: center;
-}
+
+.tieListMargin { margin-left:100px; }
+.tieMargin { margin-left: 7em; }
+.center { text-align: center; }
+
 .clearFloat {
     clear: both;
     margin: 0;
     height: 0;
     padding: 0;
 }
+
 h1 {
     text-align: center;
-margin: 1em;
+    margin: 1em;
 }
 
 #tiesSquaresBars {
@@ -87,27 +88,28 @@ margin: 1em;
     width: 30%;
     padding: .5em;
 }
-.tiesSquaresBars li{
+.tiesSquaresBars li {
     list-style: none;
     float: left;
     width: 20%;
     padding: 0 2em;
 }
-#weStarted {
-    padding: 0 8em;
-}
-h2 {
-    text-align: center;
-    padding: 2rem 2rem 0 2rem;
+
+#weStarted { padding: 0 8em; }
+
+h2 { 
+    text-align: center; 
+    padding: 2rem 2rem 0 2rem; 
     color: rgb(132, 132, 132);
 }
+
 p.story {
     text-align: center;
     font-size: .8em;
 }
-h5 {
-    font-weight: 900;
-}
+
+h5 { font-weight: 900; }
+
 .weeklyBox {
     box-sizing: border-box;
     width: 200px;
@@ -117,19 +119,23 @@ h5 {
     border-top: 1px dashed;
     border-color: rgb(224, 225, 224);
 }
+
 a {
     text-decoration: none;
     color: rgb(97, 174, 255);
 }
+
 p.weekly {
     font-size: .1em;
     width: 175px;
 }
+
 #weekly {
     margin: auto;
     margin: 2rem;
     padding: 1rem;
 }
+
 /*.dashedBox {
     border-top: 1px dashed;
     border-bottom: 1px dashed;
